@@ -12,3 +12,12 @@
 3.確認OS?
 4.確認是否有漏洞?
 5.Exploictation⟹6.post-Exploitation
+
+powershell.windows
+openvas[漏洞掃描]
+漏洞:MS-08-067.MS-17-010
+       [年]      [年]
+(防)滲透測
+1.連線?
+2.________PID?PROCESS             CVE-2020-________
+3.殺掉                          [Windows cve rdp]
