@@ -1,1 +1,14 @@
-
+         software→(App lication,system:os
+系統平台→ Hardware→Secwrity
+         Firmware→seulrity
+           (BIOS)
+[Kali] → [XP]  Penetration Test 滲透測試，駭客攻防  
+  [VBOX]
+[windows]   學習目標.安全防護
+[PT] [攻]  → [防]                                             *Google hacking*
+系統安全與滲透測試實戰
+1.確認網段中有那些系統開啟
+2.確認某主機是否liue
+3.確認OS?
+4.確認是否有漏洞?
+5.Exploictation⟹6.post-Exploitation
